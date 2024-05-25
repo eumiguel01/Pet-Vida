@@ -5,3 +5,6 @@ Desenvolvi uma página web estilizada utilizando apenas HTML, CSS e Bootstrap pa
 
 ## :wrench: Tecnologias utilizadas:
 [![Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,&theme=light)](https://skillicons.dev)
+
+## 🧭 Estado:
+Completo!
